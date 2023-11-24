@@ -35,4 +35,4 @@ The Harry Potter series consists of seven books
    - Harry, Ron, and Hermione go on a quest to find and destroy Horcruxes to defeat Voldemort.
    - The final battle between good and evil takes place at Hogwarts.
   
-![Harry Pawter]([Harry Pawter.jpg](https://i.pinimg.com/736x/25/fd/60/25fd60383fd1c90601b8abb07aa93187.jpg)
+![Harry Pawter][Harry Pawter.jpg](https://i.pinimg.com/736x/25/fd/60/25fd60383fd1c90601b8abb07aa93187.jpg)
